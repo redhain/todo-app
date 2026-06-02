@@ -1,6 +1,3 @@
-
-## **Minimal Version (if you want something simpler)**
-
 ```markdown
 # Flask todo-app
 
